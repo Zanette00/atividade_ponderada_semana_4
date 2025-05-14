@@ -1,5 +1,5 @@
 {
-  "name": "mvc-boilerplate",
+  "name": "atividade_ponderada_semana_4",
   "version": "1.0.0",
   "description": "Boilerplate para estrutura MVC em JavaScript com PostgreSQL e testes",
   "main": "server.js",
